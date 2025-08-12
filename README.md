@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **2025 Cross-VISS Hackathon**, a space for planning, proposing, and collaborating on projects.
 
-📅 **Date**: Thursday, September 25  
+📅 **Date**: Friday, September 26  
 
 ---
 
